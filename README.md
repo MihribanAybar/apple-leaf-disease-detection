@@ -4,7 +4,7 @@ This project aims to detect diseases in apple leaves using convolutional neural 
 
 ## Dataset
 
-The project utilizes the PlantVillage dataset, which can be accessed [here]([link_to_dataset](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset)).
+The project utilizes the PlantVillage dataset, which can be accessed [here](https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset).
 
 ## Project Structure
 
