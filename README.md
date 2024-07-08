@@ -1,5 +1,3 @@
-# apple-leaf-disease-detection
-A project for detecting diseases in apple leaves using convolutional neural network (CNN) models such as Xception and InceptionV3. The project utilizes the PlantVillage dataset and includes model training, evaluation, and visualization.
 # Apple Leaf Disease Detection
 
 This project aims to detect diseases in apple leaves using convolutional neural network (CNN) models. The models used include Xception and InceptionV3. The project leverages the PlantVillage dataset and involves model training, evaluation, and visualization.
